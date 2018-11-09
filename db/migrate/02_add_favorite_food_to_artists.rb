@@ -1,1 +1,2 @@
-class AddFavoriteFoodToArtists < ActiveRecord
+class AddFavoriteFoodToArtists < ActiveRecord::Migration
+  
