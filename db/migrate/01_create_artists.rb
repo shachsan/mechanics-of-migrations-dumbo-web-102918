@@ -1,4 +1,5 @@
 class CreateArtists < ActiveRecord::Migration
-def up
+  def up
   end
+
 end
