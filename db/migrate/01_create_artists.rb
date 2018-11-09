@@ -1,1 +1,1 @@
-class CreateArtists
+class CreateArtists < ActiveRecord
