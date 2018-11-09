@@ -4,4 +4,7 @@ class CreateArtists < ActiveRecord::Migration
 def down
 
 end
+def method_name
+
+end
 end
