@@ -6,6 +6,6 @@ class CreateArtists < ActiveRecord::Migration
   end
 
   def change
-    create_table:artists
+    create_table:artists do|
   end
 end
