@@ -1,1 +1,1 @@
-class CreateArtists < ActiveRecord
+class CreateArtists < ActiveRecord::Migration
