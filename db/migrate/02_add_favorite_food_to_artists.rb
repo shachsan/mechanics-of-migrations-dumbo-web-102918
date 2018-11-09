@@ -1,1 +1,1 @@
-class AddFavoriteFoodToArtists <<
+class AddFavoriteFoodToArtists < ActiveRecord
