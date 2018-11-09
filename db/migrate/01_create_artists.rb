@@ -9,8 +9,8 @@ class CreateArtists < ActiveRecord::Migration
     create_table:artists do|t|
       t.string :name
       t.string :genre
-t.integer :age
-t.string :hometown
+      t.integer :age
+      t.string :hometown
     end
   end
 end
