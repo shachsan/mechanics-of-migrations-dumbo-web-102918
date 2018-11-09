@@ -10,6 +10,8 @@ Bundler.require
 
 
 # put the code to connect to the database here
-ActiveRecord::Base.establish_connection
+ActiveRecord::Base.establish_connection(
+  
+)
 
 require_relative "../artist.rb"
